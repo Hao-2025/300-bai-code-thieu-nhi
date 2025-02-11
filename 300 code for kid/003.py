@@ -28,6 +28,13 @@ try:
 
     max_number = check_largest_number(num1, num2, num3)
     print (f"The largest number of three integer numbers is: {max_number}")
+
+    # f-string: 
+    # Making format string faster, more readable, and more efficient
+    # Allow to embed variable values, perform calculations, call functions,
+    # or apply formatting directly a string without formatting manual concatenation (liên kết thủ công)
+
+
 except ValueError: 
     print ("Invalid input. Please enter integer number.")
 
