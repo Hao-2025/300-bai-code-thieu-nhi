@@ -60,7 +60,7 @@ try:
  # f-string: 
     # Making format string faster, more readable, and more efficient
     # Allow to embed variable values, perform calculations, call functions,
-    # or apply formatting directly a string without formatting manual concatenation (liên kết thủ công)
+    # or apply formatting directly a string without formatting manual concatenation (lien ket thu cong)
     # Only need put letter 'f' in front of the string and use curly braces '{}' to ensure the expressions to insert into the string
 
 
